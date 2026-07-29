@@ -1,9 +1,9 @@
-# Gregory Ortega Nicaise
+# Gregory ORTEGA NICAISE
 
-**Research Scientist — Experimental and computational science applied to nuclear safety**
+**French Research Scientist — Experimental and computational science applied to nuclear safety**
 25+ years of experience
 
-Currently working serving as  **Scientific Advisor at the ASNR Nuclear Emergency Centre**
+Currently working serving as  **Scientific Advisor at the ASNR Nuclear Emergency Centre FRANCE**
 [Autorité de Sûreté Nucléaire et de Radioprotection](https://www.asnr.fr/) 
 
 
