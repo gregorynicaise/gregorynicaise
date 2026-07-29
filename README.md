@@ -7,5 +7,5 @@
 [Autorité de Sûreté Nucléaire et de Radioprotection](https://www.asnr.fr/) 
 
 
-- Email : [gregory.orteganicaise@gmail.com]
-- Resume : (https://gregorynicaise.github.io/)
+- Email : gregory.orteganicaise@gmail.com
+- Resume : https://gregorynicaise.github.io
