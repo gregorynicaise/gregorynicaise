@@ -8,4 +8,4 @@
 
 
 - Email : [gregory.orteganicaise@gmail.com]
-- LinkedIn : [www.linkedin.com/in/greg-ortega-nicaise-asnr]
+- Resume : (https://gregorynicaise.github.io/)
